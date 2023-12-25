@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Poppins:wght@500&display=swap');
+
+.App {
+    min-height: 100vh;
+    display: flex;
+    background: radial-gradient(circle, rgba(164, 252, 245, 1) 0%, rgb(72, 173, 255) 100%);
+}
